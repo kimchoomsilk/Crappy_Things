@@ -1,2 +1,2 @@
 # Crappy_Things
-Some codes that I randomly made. 
+Some things that I randomly made. 
